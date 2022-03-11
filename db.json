@@ -1,0 +1,12 @@
+{
+  "auditor": [
+    {
+      "auditEvent": "READ",
+      "id": 1
+    },
+    {
+      "auditEvent": "READ",
+      "id": 2
+    }
+  ]
+}
